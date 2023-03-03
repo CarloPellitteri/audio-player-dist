@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap);
+.LdPiU{display:flex}.zrxJS{display:inline-flex}.WzE0V{flex:1 1 auto}.dX_kH{flex:1 0 auto}.TdOyc{flex:0 1 auto}.bTP2h{flex-direction:column}.p5z2j{gap:4px}.RkHU6{gap:8px}.CKzu8{gap:16px}.mrveg{gap:24px}.jcyMl{gap:32px}.gLoSv{justify-content:center}.yconJ{justify-content:space-evenly}.DhZoB{justify-content:space-between}.RhLvd{align-items:center}.oK7lE{flex-wrap:wrap}.cqmAB{width:25%}
+.c_J41{width:48px;height:48px;background-color:#f0eff4;border:0;border-radius:50%;cursor:pointer;box-shadow:1px 1px 2px #a1a1a1}.c_J41:hover{background-color:#fff}.c_J41:active{background-color:#bbbbbd}.zla6a{box-shadow:inset 1px 1px 2px #a1a1a1}.c_J41::before{content:normal;width:100%;height:100%;background-color:red}.jPyia{width:64px;height:64px}.ufWXQ{box-shadow:0 0 0 rgba(161,161,161,0)}
+.efZ8y{display:block;color:#7a8193;font-size:12px}.hfYbJ{text-align:center}.aPRPQ{color:#8796c1}.FmWhP{font-size:18px}.dqW1i{font-weight:900}
+.aTk5X{height:14px;width:14px;cursor:pointer}.DI1gG svg{fill:#ffd500}.sOnmP svg{fill:#8796c1}
+.WiqdZ{border-radius:16px;display:block;padding:8px;cursor:pointer}.WiqdZ:hover{background-color:#e8e8f2}.Zw7CV{background-color:#b0b0de}.Zw7CV:hover{background-color:#b0b0de}
+.nNwN5{display:block}
+.iJgpW{border-radius:16px;overflow:hidden}.iJgpW img{margin:auto;display:block;max-width:100%;border-radius:16px}
+.rmRfn{display:block;cursor:pointer}.jsVFC{border-bottom:1px solid #8796c1;margin:8px 0;position:relative}.rJOTV{border-radius:50%;width:16px;height:16px;background-color:#8796c1;position:relative;transform:translate(-50%, 100%)}
+.R3Nhv{display:block;padding:8px;cursor:pointer}.Q9ZTf{border-bottom:1px solid #8796c1;margin:8px 0;position:relative}.nQdJu{border-radius:50%;width:16px;height:16px;background-color:#8796c1;position:relative;transform:translate(-50%, 100%)}
+.EV4uJ{display:block}
+.lG_Pk{display:block}
+.My8gW{display:block;padding:32px;background-color:#f0eff4;border-radius:32px;max-width:400px;margin:auto}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
